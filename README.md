@@ -104,7 +104,7 @@ Puedes visitar la web de GitHub Explore [at github.com/explore](https://github.c
 
 ## 📝 Siguientes pasos (opcional) 
 
-* Abre un pull request y hazle saber a tu profesora que ha terminado este curso.  
+* Abre un pull request y cuéntame que has terminado este curso.  
 * Crea un nuevo archivo de markdown en este repositorio. ¡Hazles saber lo que aprendiste y aquello que aún te resulta confuso! ¡Experimenta con diferentes estilos!
 * Crea tu perfil README. ¡Deja que el mundo sepa un poco más sobre ti! ¿Qué te interesa aprender? ¿En qué estás trabajando? ¿Cuál es tu pasatiempo favorito? Obtén más información sobre cómo crear el archivo README de tu perfil en el documento , ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Crea un nuevo repositorio en tu panel de usuario. Experimenta con las características dentro de ese repositorio para familiarizarse con ellas.
